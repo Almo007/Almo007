@@ -83,9 +83,10 @@ Evaluación y análisis de calidad de software mediante métricas y revisión de
 
 ## 📈 Estadísticas
 
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almo007&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almo007&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Almo007&show_icons=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almo007&layout=compact" height="180em" />
+</p>
 
 ---
 
